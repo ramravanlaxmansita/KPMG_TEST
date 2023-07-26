@@ -1,0 +1,3 @@
+This 3 tier architecture is as per Landing zone standard
+(Can't generate ARM tenplate due to unavailability of Azure Portal access on local machine)
+
